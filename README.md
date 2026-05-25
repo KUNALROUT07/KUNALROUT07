@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Rout&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Application%20Developer%20%7C%20Full%20Stack%20%7C%20MCA%20%40%20KIIT&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Rout&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Application%20Developer%7C%20MCA%20%40%20KIIT&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kunal+Rout+%F0%9F%91%8B;Application+Developer+%40+Odiware+Technologies;MERN+Stack+%7C+Python+%7C+Java+Enthusiast;Building+scalable+solutions+%F0%9F%9A%80;1.5%2B+Years+of+Real-World+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kunal+Rout+%F0%9F%91%8B;Software+Engineer+%40+Odiware+Technologies;MERN+Stack+%7C+Python+%7C+Java+Enthusiast;AWS+%7C+GCP+%7C+Cloud+Engineer;Building+scalable+solutions+%F0%9F%9A%80;1.5%2B+Years+of+Real-World+Experience" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -100,13 +100,13 @@ me.say_hi()
 </table>
 
 
-> 🔹 Developing and maintaining scalable web, mobile, and Odoo ERP applications using React Native, React.js, Next.js, Django, Python, and Odoo ORM
-> 🔹 Building RESTful APIs and integrating Odoo ERP systems through JSON-RPC/XML-RPC, along with third-party services and business applications
-> 🔹 Customizing and developing Odoo ERP modules, workflows, reports, access controls, and business automation solutions
-> 🔹 Deploying and managing applications on AWS and Google Cloud Platform (GCP), ensuring scalability, security, and high availability
-> 🔹 Collaborating in agile teams to deliver high-quality, production-ready software solutions across web, mobile, cloud, and ERP platforms
-> 🔹 Optimizing application performance, database efficiency, and code quality through testing, debugging, and peer reviews
-> 🔹 Working across the full stack — from UI/UX and frontend development to backend architecture, database design, cloud infrastructure, and enterprise ERP integrations
+> 🔹 <b> Developing and maintaining scalable web, mobile, and Odoo ERP applications using React Native, React.js, Next.js, Django, Python, and Odoo ORM. </b><br>
+> 🔹 <b> Building RESTful APIs and integrating Odoo ERP systems through JSON-RPC/XML-RPC, along with third-party services and business applications. </b><br>
+> 🔹 <b> Customizing and developing Odoo ERP modules, workflows, reports, access controls, and business automation solutions. </b><br>
+> 🔹 <b> Deploying and managing applications on AWS and Google Cloud Platform (GCP), ensuring scalability, security, and high availability. </b><br>
+> 🔹 <b>Collaborating in agile teams to deliver high-quality, production-ready software solutions across web, mobile, cloud, and ERP platforms. </b><br>
+> 🔹 <b> Optimizing application performance, database efficiency, and code quality through testing, debugging, and peer reviews. </b><br>
+> 🔹 <b> Working across the full stack — from UI/UX and frontend development to backend architecture, database design, cloud infrastructure, and enterprise ERP integrations. </b><br>
 ---
 
 ## 🎓 Education
