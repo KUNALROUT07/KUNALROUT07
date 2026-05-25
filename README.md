@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kunal+Rout+%F0%9F%91%8B;Application+Developer+%40+Oditech+Global;MERN+Stack+%7C+Python+%7C+Java+Enthusiast;Building+scalable+solutions+%F0%9F%9A%80;1.5%2B+Years+of+Real-World+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kunal+Rout+%F0%9F%91%8B;Application+Developer+%40+Odiware+Technologies;MERN+Stack+%7C+Python+%7C+Java+Enthusiast;Building+scalable+solutions+%F0%9F%9A%80;1.5%2B+Years+of+Real-World+Experience" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,8 +29,8 @@
 class KunalRout:
     def __init__(self):
         self.name         = "Kunal Rout"
-        self.role         = "Application Developer"
-        self.company      = "Oditech Global Pvt. Ltd., Bhubaneswar"
+        self.role         = "Software Development Engineer"
+        self.company      = "Odiware Technologies Pvt. Ltd., Bhubaneswar"
         self.education    = "MCA — KIIT University, Bhubaneswar"
         self.experience   = "1.5+ Years"
         self.location     = "Bhubaneswar, Odisha, India 🇮🇳"
@@ -92,19 +92,21 @@ me.say_hi()
 <table>
   <tr>
     <td>🏢</td>
-    <td><strong>Application Developer</strong></td>
-    <td><strong>Oditech Global Pvt. Ltd.</strong></td>
+    <td><strong>Software Development Engineer</strong></td>
+    <td><strong>Odiware Technologies Pvt. Ltd.</strong></td>
     <td>📍 Bhubaneswar, Odisha</td>
     <td>⏳ 1.5+ Years</td>
   </tr>
 </table>
 
-> 🔹 Developing and maintaining scalable web applications using the **MERN Stack**  
-> 🔹 Building RESTful APIs and integrating third-party services  
-> 🔹 Collaborating in agile teams to deliver high-quality, production-ready software  
-> 🔹 Optimizing application performance and ensuring code quality through reviews  
-> 🔹 Working across full stack — from UI/UX to backend logic and database design  
 
+> 🔹 Developing and maintaining scalable web, mobile, and Odoo ERP applications using React Native, React.js, Next.js, Django, Python, and Odoo ORM
+> 🔹 Building RESTful APIs and integrating Odoo ERP systems through JSON-RPC/XML-RPC, along with third-party services and business applications
+> 🔹 Customizing and developing Odoo ERP modules, workflows, reports, access controls, and business automation solutions
+> 🔹 Deploying and managing applications on AWS and Google Cloud Platform (GCP), ensuring scalability, security, and high availability
+> 🔹 Collaborating in agile teams to deliver high-quality, production-ready software solutions across web, mobile, cloud, and ERP platforms
+> 🔹 Optimizing application performance, database efficiency, and code quality through testing, debugging, and peer reviews
+> 🔹 Working across the full stack — from UI/UX and frontend development to backend architecture, database design, cloud infrastructure, and enterprise ERP integrations
 ---
 
 ## 🎓 Education
@@ -154,7 +156,7 @@ me.say_hi()
 
 ```javascript
 const kunalRightNow = {
-  🔭 currentlyWorkingOn : "Scalable full-stack applications @ Oditech Global",
+  🔭 currentlyWorkingOn : "Scalable full-stack applications @ Odiware Technologies",
   🌱 currentlyLearning  : ["System Design", "Cloud (AWS/GCP)", "Microservices"],
   👯 lookingToCollabOn  : "Open Source MERN / Python Projects",
   💬 askMeAbout         : ["MERN Stack", "Python", "Java", "REST APIs", "DSA"],
